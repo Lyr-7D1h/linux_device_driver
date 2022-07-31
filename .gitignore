@@ -4,7 +4,9 @@ core
 .depend 
 .*.cmd 
 *.ko 
-*.mod.c 
+*.mod.c
+*.mod
 .tmp_versions 
-*.mod modules.order 
+*.mod modules
+*.order 
 *.symvers
